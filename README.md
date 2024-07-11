@@ -1,5 +1,5 @@
 # TypingGame
-<img src = "https://github.com/hayashi-juri/TypingGame/blob/main/typing%20game/typing_game.png" width="100px"><br>
+<img src = "https://github.com/hayashi-juri/TypingGame/blob/main/typing%20game/typing_game.png" width="300px"><br>
 [demo](https://github.com/hayashi-juri/TypingGame/issues/1#issue-2402584442)
 
 The referenced code has been extended to implement the following features<br>
