@@ -1,6 +1,10 @@
 # TypingGame
 
-[![Issue](https://github.com/hayashi-juri/TypingGame/issues/1#issue-2402584442)
+<div align="center">
+    <a href="https://youtu.be/ylM1aqQO-_g">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the video" style="width:80%;">
+    </a>
+</div>
 
 The referenced code has been extended to implement the following features<br>
 References: https://www.sejuku.net/blog/143146<br>
