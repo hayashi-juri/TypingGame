@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://youtu.be/ylM1aqQO-_g">
-        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the video" style="width:80%;">
+        <img src="https://img.youtube.com/vi/ylM1aqQO-_g/0.jpg" alt="Watch the video" style="width:80%;">
     </a>
 </div>
 
