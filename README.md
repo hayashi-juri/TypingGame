@@ -1,5 +1,7 @@
 # TypingGame
 
+
+
 The referenced code has been extended to implement the following features<br>
 References: https://www.sejuku.net/blog/143146<br>
 
