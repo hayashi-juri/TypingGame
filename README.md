@@ -1,5 +1,5 @@
 # TypingGame
-
+![image](typing game/typing_game.png)
 [demo](https://github.com/hayashi-juri/TypingGame/issues/1#issue-2402584442)
 
 The referenced code has been extended to implement the following features<br>
